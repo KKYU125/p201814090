@@ -1,3 +1,5 @@
+package p201814090;
+
 public class Sansu {
 
   public static int max(int[] a) {
